@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Dialector">
+</Property><Property Name="Solution File" Value="E:\Development\Dialector\Dialector.sln">
+</Property><Property Name="User Options File" Value="E:\Development\Dialector\Dialector.suo">
+</Property><Property Name="Date" Value="11 Aralık 2007 Salı">
+</Property><Property Name="Time" Value="00:19">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Dialector.sln" Description="File successfully backed up as E:\Development\Dialector\Backup\Dialector.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Dialector.suo" Description="File successfully backed up as E:\Development\Dialector\Backup\Dialector.suo">
+</Event><Event ErrorLevel="0" Project="Dialector" Source="Dialector.csproj" Description="Project file successfully backed up as E:\Development\Dialector\Backup\Dialector.csproj">
+</Event><Event ErrorLevel="0" Project="Dialector" Source="Dialector.csproj.user" Description="Project user file successfully backed up as E:\Development\Dialector\Backup\Dialector.csproj.user">
+</Event><Event ErrorLevel="0" Project="Dialector" Source="Alphabet.cs" Description="File successfully backed up as E:\Development\Dialector\Backup\Alphabet.cs">
+</Event><Event ErrorLevel="0" Project="Dialector" Source="AssemblyInfo.cs" Description="File successfully backed up as E:\Development\Dialector\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Dialector" Source="Biztam.cs" Description="File successfully backed up as E:\Development\Dialector\Backup\Biztam.cs">
+</Event><Event ErrorLevel="0" Project="Dialector" Source="Dialect.cs" Description="File successfully backed up as E:\Development\Dialector\Backup\Dialect.cs">
+</Event><Event ErrorLevel="0" Project="Dialector" Source="Emmi.cs" Description="File successfully backed up as E:\Development\Dialector\Backup\Emmi.cs">
+</Event><Event ErrorLevel="0" Project="Dialector" Source="Haxor.cs" Description="File successfully backed up as E:\Development\Dialector\Backup\Haxor.cs">
+</Event><Event ErrorLevel="0" Project="Dialector" Source="Kufurbaz.cs" Description="File successfully backed up as E:\Development\Dialector\Backup\Kufurbaz.cs">
+</Event><Event ErrorLevel="0" Project="Dialector" Source="Kus.cs" Description="File successfully backed up as E:\Development\Dialector\Backup\Kus.cs">
+</Event><Event ErrorLevel="0" Project="Dialector" Source="Language.cs" Description="File successfully backed up as E:\Development\Dialector\Backup\Language.cs">
+</Event><Event ErrorLevel="0" Project="Dialector" Source="Laz.cs" Description="File successfully backed up as E:\Development\Dialector\Backup\Laz.cs">
+</Event><Event ErrorLevel="0" Project="Dialector" Source="Letter.cs" Description="File successfully backed up as E:\Development\Dialector\Backup\Letter.cs">
+</Event><Event ErrorLevel="0" Project="Dialector" Source="Mors.cs" Description="File successfully backed up as E:\Development\Dialector\Backup\Mors.cs">
+</Event><Event ErrorLevel="0" Project="Dialector" Source="Parrot.cs" Description="File successfully backed up as E:\Development\Dialector\Backup\Parrot.cs">
+</Event><Event ErrorLevel="0" Project="Dialector" Source="Peltek.cs" Description="File successfully backed up as E:\Development\Dialector\Backup\Peltek.cs">
+</Event><Event ErrorLevel="0" Project="Dialector" Source="Pisi.cs" Description="File successfully backed up as E:\Development\Dialector\Backup\Pisi.cs">
+</Event><Event ErrorLevel="0" Project="Dialector" Source="Sms.cs" Description="File successfully backed up as E:\Development\Dialector\Backup\Sms.cs">
+</Event><Event ErrorLevel="0" Project="Dialector" Source="Tiki.cs" Description="File successfully backed up as E:\Development\Dialector\Backup\Tiki.cs">
+</Event><Event ErrorLevel="0" Project="Dialector" Source="Turkish.cs" Description="File successfully backed up as E:\Development\Dialector\Backup\Turkish.cs">
+</Event><Event ErrorLevel="0" Project="Dialector" Source="Util.cs" Description="File successfully backed up as E:\Development\Dialector\Backup\Util.cs">
+</Event><Event ErrorLevel="0" Project="Dialector" Source="Dialector.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="Dialector" Source="Dialector.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="TestLab" Source="TestLab\TestLab.csproj" Description="Project file successfully backed up as E:\Development\Dialector\Backup\TestLab\TestLab.csproj">
+</Event><Event ErrorLevel="0" Project="TestLab" Source="TestLab\TestLab.csproj.user" Description="Project user file successfully backed up as E:\Development\Dialector\Backup\TestLab\TestLab.csproj.user">
+</Event><Event ErrorLevel="0" Project="TestLab" Source="TestLab\AssemblyInfo.cs" Description="File successfully backed up as E:\Development\Dialector\Backup\TestLab\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="TestLab" Source="TestLab\Form1.cs" Description="File successfully backed up as E:\Development\Dialector\Backup\TestLab\Form1.cs">
+</Event><Event ErrorLevel="0" Project="TestLab" Source="TestLab\App.ico" Description="File successfully backed up as E:\Development\Dialector\Backup\TestLab\App.ico">
+</Event><Event ErrorLevel="0" Project="TestLab" Source="TestLab\Form1.resx" Description="File successfully backed up as E:\Development\Dialector\Backup\TestLab\Form1.resx">
+</Event><Event ErrorLevel="0" Project="TestLab" Source="TestLab\TestLab.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TestLab" Source="TestLab\TestLab.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Dialector.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Dialector.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TestLab" Source="TestLab\TestLab.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

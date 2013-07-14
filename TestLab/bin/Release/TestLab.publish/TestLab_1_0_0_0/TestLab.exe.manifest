@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <asmv1:assemblyIdentity name="TestLab.exe" version="1.0.0.0" publicKeyToken="a80779fd49d8e5ae" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="App.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="TestLab" version="1.0.2932.39226" language="neutral" processorArchitecture="msil" />
+    <commandLine file="TestLab.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="4" minorVersion="10" buildNumber="0" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Dialector.dll" size="32768">
+      <assemblyIdentity name="Dialector" version="1.1.2932.39226" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>tWlFWk8Ct44E1EQG1gA+BkfRNW4=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TestLab.exe" size="20480">
+      <assemblyIdentity name="TestLab" version="1.0.2932.39226" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>r6O2mJn90ELIOzdUIRHVX+iHwQM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="App.ico" size="1078">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>GM7OUb4teOfGVJg9lxgqFUWHPYk=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=KeremPC\Kerem" issuerKeyHash="456f5dce1f651d4f895bec59c292ca34e6550c26" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>1cDoKLTYdIIkaL55lB2lt3LyfDI=</DigestValue></Reference></SignedInfo><SignatureValue>MmnMyLE2tRhaisTy0ETXpi9tfuWkbYdKjO88ea9AYPlf7/NzyYuPurCRqVMbF6aKt8NLX/5mH8fUrmB+j+L5p8ajAGovEV+zBKKZUhdLfOTsiR/SEquIRrFW2LthZQdaRocMiwMNK/xAOXJZlGPgq9x+zFs2tgUwskaFMVTBxAc=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>scdsdQV9FCngsuj1TeqfbATB8UTfuQFqzcVOcK+N7Mszfc83qe8TYaE5uA4ZUjSNEmtrrN4SlnzNZKuk1CXjxDkFOHKGbhGgBdCWJqaZyu+7qRW6ogHrRPmNKmKusj0neZkoRUzHTz0b7EGYcU15Pif6El3+/39qaUfd3NA7r2s=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="327cf272b7a51d9479be68248274d8b428e8c0d5" Description="" Url=""><as:assemblyIdentity name="TestLab.exe" version="1.0.0.0" publicKeyToken="a80779fd49d8e5ae" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=KeremPC\Kerem</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>JwSboIwtQk5Q8HhRmPb/OEURyEM=</DigestValue></Reference></SignedInfo><SignatureValue>R5toCih5genN6RO8VxOB5iTvGbNqjfcqWL838mlsV94f560KmJbs22SYCSz62GVDygYRYf9c0QIx35Iy4UEmlj3DiUewswldjzNC5Wk2XOEmiqVEYFJkvd1WQJ4vkOi3Qg0z0zXmvndKJ+LVgP+/TGvDo/j+QPgz5Xmf4OseW/U=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>scdsdQV9FCngsuj1TeqfbATB8UTfuQFqzcVOcK+N7Mszfc83qe8TYaE5uA4ZUjSNEmtrrN4SlnzNZKuk1CXjxDkFOHKGbhGgBdCWJqaZyu+7qRW6ogHrRPmNKmKusj0neZkoRUzHTz0b7EGYcU15Pif6El3+/39qaUfd3NA7r2s=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBzTCCATagAwIBAgIQEYFvmCYLdIxFBvbzJuVKqjANBgkqhkiG9w0BAQUFADAlMSMwIQYDVQQDHhoASwBlAHIAZQBtAFAAQwBcAEsAZQByAGUAbTAeFw0wODAxMTExOTQ3MzJaFw0wOTAxMTEwMTQ3MzJaMCUxIzAhBgNVBAMeGgBLAGUAcgBlAG0AUABDAFwASwBlAHIAZQBtMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCxx2x1BX0UKeCy6PVN6p9sBMHxRN+5AWrNxU5wr43syzN9zzep7xNhoTm4DhlSNI0Sa2us3hKWfM1kq6TUJePEOQU4coZuEaAF0JYmppnK77upFbqiAetE+Y0qYq6yPSd5mShFTMdPPRvsQZhxTXk+J/oSXf7/f2ppR93c0DuvawIDAQABMA0GCSqGSIb3DQEBBQUAA4GBAGWkoPI4aYVIYRCDGpzt1TgMr0+PNLYLT2ZhjtiXPjDKxao/ea+NoclBDQFGQeTwFp1ZG+zLpXMWg8LaJwRgTZ7RR3tLLMuLox2Wp3PXH3B4Y4l6YqU283k4Ngpa2IgeyOjX3940CoYvURfvzMdDNYVQS2Rc2fd91W0aFKcZ0tXR</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
